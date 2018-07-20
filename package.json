@@ -1,0 +1,19 @@
+{
+  "name": "paginasWebReestructurado",
+  "version": "1.0.0",
+  "description": "Reestructuracion del archivo paginasWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-pocket/paginasWebReestructurado.git"
+  },
+  "author": "Daniel Verdu Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocket-pocket/paginasWebReestructurado/issues"
+  },
+  "homepage": "https://github.com/rocket-pocket/paginasWebReestructurado#readme"
+}
