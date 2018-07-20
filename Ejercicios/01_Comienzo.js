@@ -1,16 +1,14 @@
 //FizzBuzz
 
-let contador = 1
-while(contador <= 100){ 
-    if (contador % 3 == 0) {
+for (let i = 1; i <= 100; i++) {
+    if (i % 3 == 0) {
         console.log('Fizz')
-    }else if (contador % 5 == 0) {
-        console.log('buzz')
+    }else if (i % 5 == 0) {
+        console.log('Buzz')
     } else {
-        console.log(contador)
-    contador = contador +1
+        console.log(i)
     }
-}  
+}
     
 
 
