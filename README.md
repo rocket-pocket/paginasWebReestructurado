@@ -1,7 +1,6 @@
 # paginasWebReestructurado
 Reestructuración del repositorio de páginas web
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Diseño web](./assets/responsive-design-2.png "Desarrollo web")
 
 
